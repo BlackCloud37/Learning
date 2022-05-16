@@ -54,7 +54,7 @@
 
    UDP
 
-   ![image-20220515211855275](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/dns/solution.assets/image-20220515211855275.png)
+   ![image-20220515211855275](solution.assets/image-20220515211855275.png)
 
 5. **What is the destination port for the DNS query message? What is the source port of DNS response message?**
 
@@ -74,7 +74,7 @@
 
    - 3
 
-   ![image-20220515212444099](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/dns/solution.assets/image-20220515212444099.png)
+   ![image-20220515212444099](solution.assets/image-20220515212444099.png)
 
 9. **Consider the subsequent TCP SYN packet sent by your host. Does the destination IP address of the SYN packet correspond to any of the IP addresses provided in the DNS response message?**
    - Yes
@@ -85,7 +85,7 @@
 
     - 53, 62703
 
-      ![image-20220515213214543](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/dns/solution.assets/image-20220515213214543.png)
+      ![image-20220515213214543](solution.assets/image-20220515213214543.png)
 
 12. **To what IP address is the DNS query message sent? Is this the IP address of your default local DNS server?**
 
@@ -100,7 +100,7 @@
 
     - 3
 
-    ![image-20220515213330402](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/dns/solution.assets/image-20220515213330402.png)
+    ![image-20220515213330402](solution.assets/image-20220515213330402.png)
 
 15. **Provide a screenshot.**
 
@@ -115,7 +115,7 @@
 
 18. **Examine the DNS response message. What MIT nameservers does the response message provide? Does this response message also provide the IP addresses of the MIT namesers?**
 
-    <img src="/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/dns/solution.assets/image-20220515213914928.png" alt="image-20220515213914928" style="zoom:50%;" />
+    <img src="solution.assets/image-20220515213914928.png" alt="image-20220515213914928" style="zoom:50%;" />
 
 19. **Provide a screenshot.**
 
@@ -133,7 +133,7 @@
 
     - Due to network problem, this DNS query failed, my DNS client finally queried the 8.8.8.8 for answer
 
-    ![image-20220515214220480](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/dns/solution.assets/image-20220515214220480.png)
+    ![image-20220515214220480](solution.assets/image-20220515214220480.png)
 
 23. **Provide a screenshot.**
 

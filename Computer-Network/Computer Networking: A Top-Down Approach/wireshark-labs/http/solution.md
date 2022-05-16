@@ -34,7 +34,7 @@
 
    - No
 
-<img src="/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/http/solution.assets/image-20220515190336379.png" alt="image-20220515190336379" style="zoom:50%;" />
+     ![image-20220515190336379](solution.assets/image-20220515190336379.png)
 
 ### 2. The HTTP CONDITIONAL GET/response interaction
 
@@ -67,7 +67,7 @@
 
     4. 4
 
-    <img src="/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/http/solution.assets/image-20220515192741719.png" alt="image-20220515192741719" style="zoom:50%;" />
+       ![image-20220515192741719](solution.assets/image-20220515192741719.png)
 
 ### 4. HTML Documents with Embedded Objects
 

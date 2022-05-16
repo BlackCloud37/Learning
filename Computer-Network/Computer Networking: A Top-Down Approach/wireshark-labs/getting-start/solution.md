@@ -4,7 +4,7 @@
 
 2. **How long did it take from when the HTTP GET message was sent until the HTTP OK reply was received? (By default, the value of the Time column in the packet- listing window is the amount of time, in seconds, since Wireshark tracing began. To display the Time field in time-of-day format, select the Wireshark *View* pull down menu, then select Time *Display Format*, then select *Time-of-day*.)**
 
-   ![image-20220515181945169](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/getting-start/solution.assets/image-20220515181945169.png)
+   ![image-20220515181945169](solution.assets/image-20220515181945169.png)
 
 3. **What is the Internet address of the gaia.cs.umass.edu (also known as www- net.cs.umass.edu)? What is the Internet address of your computer?**
 

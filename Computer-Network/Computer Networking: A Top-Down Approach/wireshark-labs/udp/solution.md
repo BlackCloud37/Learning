@@ -8,7 +8,7 @@
 
    - Checksum: 0x4711
 
-     <img src="/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/udp/solution.assets/image-20220516212832782.png" alt="image-20220516212832782" style="zoom:50%;" />
+     <img src="solution.assets/image-20220516212832782.png" alt="image-20220516212832782" style="zoom:50%;" />
 
 2. **By consulting the displayed information in Wireshark’s packet content field for this packet, determine the length (in bytes) of each of the UDP header fields.**
 
@@ -32,12 +32,13 @@
 
    - 17 in decimal and 0x11 in hexadecimal
 
-     <img src="/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/udp/solution.assets/image-20220516213517134.png" alt="image-20220516213517134" style="zoom:50%;" />
+     <img src="solution.assets/image-20220516213517134.png" alt="image-20220516213517134" style="zoom:50%;" />
 
 7. **Examine a pair of UDP packets in which your host sends the first UDP packet and the second UDP packet is a reply to this first UDP packet. (Hint: for a second packet to be sent in response to a first packet, the sender of the first packet should be the destination of the second packet). Describe the relationship between the port numbers in the two packets.**
 
    - The source port of the UDP packet sent by the host is the same as the destination port of the reply packet, and conversely the destination port of the UDP packet sent by the host is the same as the source port of the reply packet.
 
-     ![image-20220516213737042](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/udp/solution.assets/image-20220516213737042.png)
+     ![image-20220516213737042](solution.assets/image-20220516213737042.png)
 
-     ![image-20220516213808770](/Users/test/Repo/Learning/Computer-Network/Computer Networking: A Top-Down Approach/wireshark-labs/udp/solution.assets/image-20220516213808770.png)
+     ![image-20220516213808770](solution.assets/image-20220516213808770.png)
+
