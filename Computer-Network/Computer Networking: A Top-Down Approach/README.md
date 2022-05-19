@@ -9,7 +9,7 @@
   - [x] [DNS](./wireshark-labs/dns/)
   - [x] [TCP](./wireshark-labs/tcp/)
   - [x] [UDP](./wireshark-labs/udp/)
-  - [ ] IP
+  - [x] [IP](./wireshark-labs/ip/)
   - [ ] NAT
   - [ ] DHCP
   - [ ] ICMP
