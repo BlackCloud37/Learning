@@ -10,7 +10,7 @@
   - [x] [TCP](./wireshark-labs/tcp/)
   - [x] [UDP](./wireshark-labs/udp/)
   - [x] [IP](./wireshark-labs/ip/)
-  - [ ] NAT
+  - [x] NAT
   - [ ] DHCP
   - [ ] ICMP
   - [ ] Ethernet and ARP
