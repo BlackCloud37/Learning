@@ -13,6 +13,7 @@
   - [x] [Lecture #03: Database Storage I](https://15445.courses.cs.cmu.edu/fall2021/slides/03-storage1.pdf)
   - [x] [Lecture #04: Database Storage II](https://15445.courses.cs.cmu.edu/fall2021/slides/04-storage2.pdf)
   - [x] [Lecture #05: Buffer Pools](https://15445.courses.cs.cmu.edu/fall2021/slides/05-bufferpool.pdf)
+  - [x] [Lecture #06: Hash Tables](https://15445.courses.cs.cmu.edu/fall2021/slides/06-hashtables.pdf)
 
 - [ ] Homeworks
 
