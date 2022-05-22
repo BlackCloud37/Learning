@@ -12,7 +12,7 @@
   - [x] [IP](./wireshark-labs/ip/)
   - [x] [NAT](./wireshark-labs/nat/)
   - [x] [DHCP](./wireshark-labs/dhcp/)
-  - [ ] ICMP
+  - [x] [ICMP](./wireshark-labs/icmp)
   - [ ] Ethernet and ARP
   - [ ] 802.11 WiFi
   - [ ] TLS/SSL
