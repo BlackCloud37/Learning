@@ -5,10 +5,12 @@
 ## Lectures
 
 - [x] Introduction
+- [x] OS Organization
 
 ## Labs
 
 See https://github.com/BlackCloud37/xv6-labs-2021
 
 - [x] Lab: Xv6 and Unix utilities
+- [x] Lab: System calls
 
